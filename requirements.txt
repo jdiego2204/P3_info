@@ -1,0 +1,8 @@
+# Lista las librerías para instalarlas con un solo comando.
+#Con pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+pydicom
+opencv-python
+nibabel
