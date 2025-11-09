@@ -1,0 +1,2 @@
+StudyDate,StudyTime,StudyModality,StudyDescription,SeriesTime,Duracion_s,Shape,PixelSpacing,SliceThickness,Nombre
+20131203,105457.296000,MR,NEUROLOGIE^SusannePD,112746.187000,1969,"(256, 240, 528)","[1, 1]",1.0,pmmi_01
